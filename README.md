@@ -1,3 +1,3 @@
 # pong
 my implementation of pong game
-![Pong](./screenshots/cattura.png)
+![Pong](./screenshots/cattura.PNG)
